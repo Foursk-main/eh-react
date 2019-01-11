@@ -1,0 +1,25 @@
+{
+  "name": "@foursk/eh-react",
+  "version": "0.1.0",
+  "description": "@foursk/eh support for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Foursk-main/eh-react.git"
+  },
+  "keywords": [
+    "eh",
+    "react",
+    "event"
+  ],
+  "author": "foursk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Foursk-main/eh-react/issues"
+  },
+  "homepage": "https://github.com/Foursk-main/eh-react#readme",
+  "dependencies": {}
+}
